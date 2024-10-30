@@ -1,0 +1,13 @@
+#container{
+    width: 1000px;
+    margin: 0 auto;  /*가운데 정렬*/
+    border: 1px solid black;
+    height: 50%;
+    width: 50%;
+    background-color: gray;
+    padding: 30px;
+    margin-top: 25%;
+}
+html{
+    background-color: antiquewhite;
+}
